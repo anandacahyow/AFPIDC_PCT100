@@ -1,9 +1,9 @@
 %% ================ Perancangan AFPIDC ================
 % PERANCANGAN FUZZY INFERENCE SYSTEM: MF, RULE BASE, DEFFUZ
 
-% Inisialisasi output fuzzy
-e=1;
-de=1;
+% Inisialisasi Output Fuzzy
+e=1;        %error signal
+de=1;       %derivative error signal
 
 % ==== Parameter Membership Function ====
 % Proportional Gain
